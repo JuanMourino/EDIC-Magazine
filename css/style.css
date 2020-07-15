@@ -1,0 +1,196 @@
+body{
+	background-image: url(img/casarosada.jpg);
+}
+body{
+	background-image: url(img/fondodelapagina.jpg);
+}
+main{
+	
+	background-color: #FC9F9F; 
+	width: 900px;
+	margin:0 auto;
+margin-top: 30px;
+}
+.a {
+	text-align: center;
+    padding: 10px;
+    font-size: 40px;
+}
+.c{ 
+	padding-left:8px;
+ }
+.p{
+	padding: 10px;
+	text-align: center; 
+	font-size:23px;
+     }
+.e {
+	: 100px;
+     text-align: center;
+}
+.contenedor{
+position: relative;
+display: inline-block;}
+.texto-encima{
+	position: absolute;
+	top: 100px;
+	left: 50px;}
+.centrado{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+}
+.titulo{
+	font-size: 200px;
+	color: rgba(180,9,12,0.9);
+}
+.tablapagina2{
+	background-color: rgba(98,120,120,0.5);
+	text-align: center;
+}
+form{
+	border: 4px solid#D82B2B;
+}
+.container{
+	padding: 20px
+	background-color: rgba(98,120,120);
+}
+input[type=text], input[type=submit]{
+	width: 100%;
+	padding: 12px;
+	margin: 8px 0;
+	display: inline-block;
+	border:1px solid #ccc;
+	box-sizing: border-box;
+}
+input[type=checkbox]{
+	margin-top: 16px
+}
+input[type=submit]{
+	background-color: #4CAF50;
+	color: rgba(183,250,250);
+	border:none;
+}
+input[type=submit]:hover {
+	opacity: 0.5;
+}
+.titulopagina {
+	font-size: 100px;
+	color: rgba(180,9,12,0.9);
+	top: 35;
+}
+.texto-encimamerli{
+position: absolute;
+	top: 380px;
+	left: 10px;
+	font-style: 
+}
+.paginajuego1{
+
+}
+.boton_vermas{
+    text-decoration: none;
+    padding: 13px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-family: helvetica;
+    font-weight: 330;
+    font-size: 31px;
+    font-style: italic;
+    color: #006505;
+    background-color: #FD5B48
+;
+    border-radius: 22px;
+    border: 10px double #006505;
+    text-align: center;
+  }
+  .boton_vermas:hover{
+    opacity: 0.6;
+    text-decoration: none;
+  }
+  .listab {
+  	text-decoration: none;
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family: helvetica;
+    font-weight: 100;
+    font-size: 20px;
+    font-style: italic;
+    color: #006505;
+    background-color: #82b085;
+    border-radius: 5px;
+    border: 5px double #006505;
+    text-align: none;
+  }
+  .listaa{
+text-decoration: none;
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family: helvetica;
+    font-weight: 100;
+    font-size: 20px;
+    font-style: italic;
+    color: #006505;
+    background-color: #82b085;
+    border-radius: 5px;
+    border: 5px double #006505;
+    text-align: none;
+ }
+ .titulo-segundo{
+font-size: 100px;
+    color: rgba(180,9,12,0.9);
+    position: relative;
+    top: 180px;
+    margin-left: 15px;
+ }
+ .titulo-tercero{
+font-size: 80px;
+    color: rgba(180,9,12,0.9);
+    position: relative;
+    top: 0px;
+    margin-left: 15px;
+
+ }
+ .titulo-cuarto{
+font-size: 115px;
+    color: rgba(180,9,12,0.9);
+    position: relative;
+    top: -40px;
+    margin-left: 15px;
+}
+.texto_pagina{
+font-size: 30px;
+
+ }
+ .l{
+    text-decoration: none;
+    color: green;
+ }
+ .l:hover{
+    text-decoration: underline;
+    color: green;
+ }
+ .cuerpotexto{
+    background-color: rgba(33,221,127,0.7); 
+    width: 900px;
+    margin:0 auto;
+margin-top: 60px;
+ }
+ .table{text-align:center;}
+ table {
+   width: 100%;
+   border: 1px solid #000;
+}
+th, td {
+   width: 25%;
+   text-align: left;
+   vertical-align: top;
+   border: 1px solid #000;
+   border-collapse: collapse;
+}
+.texto_super{
+font-size: 35px;
+font
+}
